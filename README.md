@@ -68,7 +68,7 @@ Semangat belajar coding ini seperti Kuroko yang terus berlatih dan berkembang.
 <br>
 
 <p align="center">
-  <img src="(https://imgur.com/a/2jFYBtm)" alt="Slow living" width="400"/>
+  <img src="https://imgur.com/a/2jFYBtm" alt="Slow living" width="400"/>
 </p>
 
 
