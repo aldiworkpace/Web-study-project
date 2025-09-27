@@ -65,7 +65,7 @@ Repositori ini utamanya untuk pembelajaran pribadi, namun jika ada saran atau ko
 <br>
 
 <p align="center">
-  <img src="https://imgur.com/a/2jFYBtm.png" width="400" height="500"/>
+  <img src="https://imgur.com/a/p-2jFYBtm" width="400" height="500"/>
 </p>
 
 
