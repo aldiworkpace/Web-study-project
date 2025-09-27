@@ -3,7 +3,6 @@
 Selamat datang di repositori studi pengembangan web-ku! Repositori ini adalah tempat di mana aku belajar, bereksperimen, dan mendokumentasikan perjalanan dalam memahami berbagai teknologi web. Dari dasar-dasar HTML, CSS, JavaScript, hingga framework dan konsep yang lebih lanjut, semuanya akan ada di sini.
 
 > "There's no such thing as a useless effort."
-> – Tetsuya Kuroko
 
 ---
 
@@ -69,10 +68,8 @@ Semangat belajar coding ini seperti Kuroko yang terus berlatih dan berkembang.
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/your-kuroko-image-link.png" alt="Kuroko Tetsuya" width="400"/>
+  <img src="(https://imgur.com/a/2jFYBtm)" alt="Slow living" width="400"/>
 </p>
-<p align="center">
-  "Aku adalah bayangan yang akan memperkuat cahaya."
-</p>
+
 
 ---
