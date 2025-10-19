@@ -1,0 +1,59 @@
+.body {
+    display: center;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.testimoni {
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19);
+    overflow: hidden;
+    max-width: 100%;
+    width: 400px;
+}
+
+.testimoni-body {
+    padding: 40px 40px 80px;
+}
+
+.testimoni-body p {
+    color: #555;
+    font_size: 20px;
+    margin: 0;
+}
+
+.testimoni-body .fa-quote-right {
+    color: #eee;
+    font-size: 40px;
+    float: right;
+}
+
+.testimoni-footer {
+    background-color: #313363;
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+}
+
+.testimoni-footer img {
+    border-radius: 50%;
+    border: 5px solid #fff;
+    height: 120px;
+    width: 120px;
+    margin-top: -100px;
+}
+
+.testimoni-footer h3 {
+    margin: 10px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+}
+
+.testimoni-footer h4 {
+    color: #b3b5ef;
+    margin: 0;
+    letter-spacing: 1px;
+}
