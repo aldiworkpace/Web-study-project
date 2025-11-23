@@ -20,7 +20,7 @@ body {
     overflow: hidden;
     background-color: #2a2a2a;
 }
-/* nav bagian kiri */
+/* left nav */
 .leftnav {
     float: left;
     display: block;
@@ -29,7 +29,7 @@ body {
     text-align: center;
     text-decoration: none;
 }
-/*nav bagian kanan */
+/* right nav */
 .rightnav {
     float: right;
     display: block;
@@ -43,8 +43,8 @@ body {
     background-color: #ddd;
     color: #2a2a2a;
 }
-/*bagian tengah*/
-.colomn.tengah {
+/*main body*/
+.main.body {
     display: flex;
     min-height: 100vh;
     padding: 20px;
@@ -57,7 +57,7 @@ body {
     padding: 10px;
 }
 
-/*kolom kiri*/
+/*left column*/
 .column.left {
     background-color: white;
     width: 70%;
@@ -91,3 +91,4 @@ footer {
     font-weight: bold;
 
 }
+
