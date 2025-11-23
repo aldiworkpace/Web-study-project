@@ -64,29 +64,30 @@ body {
     padding: 20px;
 }
 
-/*kolom kanan*/
+/*right column*/
 .column.right {
     width: 30%;
     background-color: white;
     padding: 20px;
 }
- /* bawah kolom*/
+ /* bottom column*/
 .column.bottom {
     background-color: white;
     padding: 20px;
 }
 
-/* ngebuat resposive */
+/* responsive */
  @media screen and (max-width: 600px) {
            .columnleft, .columnright .main-body .column.bottom .img {
             width: 100%;
            }
         }
 
-/*bagian footer */
+/* footer */
 footer {
     background-color: #ddd;
     text-align: center;
     padding: 20px;
     font-weight: bold;
+
 }
